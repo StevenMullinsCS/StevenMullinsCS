@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Womboi
+- 👋 Hi, I’m Steven.
 - 👀 I’m interested in ... Video games, programming, MMA, and reading.
-- 🌱 I’m currently learning ... C++, Python, Java
+- 🌱 I’m currently learning ... C++, Python
 
 <!---
 Womboi/Womboi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
