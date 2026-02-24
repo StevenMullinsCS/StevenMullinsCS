@@ -1,6 +1,6 @@
-# Hello! 👋
+# Hello!
 
-I'm Steven, a passionate sophomore Computer Science student based in Tennessee. 🎓 I spend my time coding, reading, and diving into the world of video games.
+I'm Steven, a passionate senior Computer Science student based in Tennessee. 🎓 I spend my time coding, reading, and diving into the world of video games.
 
 ## 👨‍💻 About Me
 
@@ -10,7 +10,7 @@ I'm Steven, a passionate sophomore Computer Science student based in Tennessee. 
 
 ## 🔧 Tech Stack
 
-- 💻 Proficient in C# while currently learning HTML, CSS, and JS!.
+- 💻 Proficient in C#, Python, and HTML/CSS while also currently learning C, Assembly, and how to use the SAP platform.
 - 🚀 Always eager to learn and adapt to new technologies.
 
 ## 🚀 My Projects
